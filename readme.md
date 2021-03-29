@@ -11,7 +11,7 @@
     - 使用其他钱包收款：需注册以太坊钱包，钱包可自行选择，如：Coinbase，Bitpay，Metamask，imToken
 
 ### 选择矿池
-- 推荐! 币安矿池 Binance Pool (binance.com): , 无最小体现额度，随时支付
+- 推荐! 币安矿池 Binance Pool (binance.com): , 无最小提现额度，随时支付
 - 推荐! Ethermine Pool (ethermine.org): 最小提现额度 0.01 ETH，每周支付一次
 - 星火矿池 Sparkpool (sparkpool.com): 最小提现额度 0.1 ETH，每月支付一次
 
