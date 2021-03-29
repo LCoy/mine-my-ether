@@ -17,7 +17,7 @@
 ### 开始挖矿
 - 准备一台有NVIDIA显卡，现存 >=4G 的电脑，装好NVIDIA驱动，推荐使用Ubuntu系统，Windows也 🉑️
 - 确认显卡工作正常，Windows桌面右键能看到NVIDIA控制面板，Linux 运行 nvidia-smi 能看到显卡
-- 降低显卡功耗 (重要！！！)
+- 降低显卡功耗 (重要⚠️⚠️⚠️)
     - Windows 可以使用 MSI Afterburner, 将显卡功耗墙拉至最低，通常为50%到60%
     - Linux 使用 【sudo nvidia-smi -pl 100】，100W只是举例，需降至显卡支持的最低功率
 - 克隆或者下载zip到你的本地，修改 【linux.sh】【linux_binance.sh】【windows.bat】中的地址
@@ -26,42 +26,42 @@
 
 
 <details>
-  <summary> 【✅ 点击展开】 Linux 操作指令集</summary>
+  <summary> ⬅️⬅️⬅️【点击展开】 Linux 操作指令集</summary>
   
-    ### Linux Binance pool
-    ```bash
-    ./bin/ethminer_0.19.0 -URP stratum+tcp://o123o.001@ethash.poolbinance.com:1800
-    ```
+### Linux Binance pool
+```bash
+./bin/ethminer_0.19.0 -URP stratum+tcp://o123o.001@ethash.poolbinance.com:1800
+```
 
-    ### Linux ethermine
-    ```bash
-    ./bin/ethminer_0.19.0 -URP stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@asia1.ethermine.org:4444
-    ```
+### Linux ethermine
+```bash
+./bin/ethminer_0.19.0 -URP stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@asia1.ethermine.org:4444
+```
 
-    ### Linux sparkpool
-    ```bash
-    ./bin/ethminer_0.19.0 -URP stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@cn.sparkpool.com:3333
-    ```
+### Linux sparkpool
+```bash
+./bin/ethminer_0.19.0 -URP stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@cn.sparkpool.com:3333
+```
 </details>
 
 
 <details>
-  <summary> 【✅ 点击展开】 Linux 操作指令集</summary>
+  <summary> ⬅️⬅️⬅️【点击展开】 Windows 操作指令集</summary>
 
-    ### Windows Binance pool
-    ```bash
-    bin/ethminer_0.18.0.exe -P -URP stratum+tcp://o123o.001@ethash.poolbinance.com:1800
-    ```
+### Windows Binance pool
+```bash
+bin/ethminer_0.18.0.exe -P -URP stratum+tcp://o123o.001@ethash.poolbinance.com:1800
+```
 
-    ### Windows ethermine
-    ```bash
-    bin/ethminer_0.18.0.exe -P stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@asia1.ethermine.org:4444
-    ```
+### Windows ethermine
+```bash
+bin/ethminer_0.18.0.exe -P stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@asia1.ethermine.org:4444
+```
 
-    ### Windows sparkpool
-    ```bash
-    bin/ethminer_0.18.0.exe -P stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@cn.sparkpool.com:3333
-    ```
+### Windows sparkpool
+```bash
+bin/ethminer_0.18.0.exe -P stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e82e8.001@cn.sparkpool.com:3333
+```
 </details>
 
 
