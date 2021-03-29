@@ -3,7 +3,7 @@
 ### 挖矿账号
 需注册币安账号，注册链接: [www.binance.cc](https://www.binance.cc/zh-CN/register?ref=QY9ESCNP)
 
-注册时输入邀请码<span style="color:red">QY9ESCNP</span>，你的账号今后所有交易可获取10%的交易佣金折扣，不输入邀请码则无佣金折扣
+注册时输入邀请码**QY9ESCNP**，你的账号今后所有交易可获取10%的交易佣金折扣，不输入邀请码则无佣金折扣
 
 - 使用币安矿池：选择【矿池】，添加一个矿工，并修改下方的【o123o】为你的矿工名字
 - 使用其他矿池：
