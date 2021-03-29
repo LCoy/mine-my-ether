@@ -1,6 +1,6 @@
 ## Start to mine ethereum today
 
-### 选择矿池
+## 选择矿池和钱包
 - ✅ 推荐 币安矿池: 无最小提现额度，每天支付
 - ✅ 推荐 Ethermine (ethermine.org): 全球最大的矿池，适合海外用户，最小提现额度 0.01 ETH，每周支付一次
 - 星火矿池 (sparkpool.com): 适合国内大量挖矿用户，不适合普通用户，最小提现额度 0.1 ETH，每月支付一次
@@ -14,7 +14,7 @@
 - 使用币安收款：需注册币安账号，注册链接: [www.binance.cc](https://www.binance.cc/zh-CN/register?ref=QY9ESCNP)。选择【现货】->【ETH】->【充值】-> 【ERC20主网】，获得【0x】开头的充值地址，并修改命令行中收款地址
 - 使用其他钱包收款：需注册以太坊钱包，获得【0x】开头的充值地址，并修改命令行中收款地址。钱包可自行选择，如：Coinbase，Bitpay，Metamask，imToken
 
-### 开始挖矿
+## 开始挖矿
 - 准备一台有NVIDIA显卡，现存 >=4G 的电脑，装好NVIDIA驱动，推荐使用Ubuntu系统，Windows也 🉑️
 - 确认显卡工作正常，Windows桌面右键能看到NVIDIA控制面板，Linux 运行 nvidia-smi 能看到显卡
 - 克隆这个repo 【git clone https://github.com/LCoy/mine-my-ether 】或者下载zip并解压
