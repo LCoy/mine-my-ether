@@ -17,17 +17,18 @@
 ### 开始挖矿
 - 准备一台有NVIDIA显卡，现存 >=4G 的电脑，装好NVIDIA驱动，推荐使用Ubuntu系统，Windows也 🉑️
 - 确认显卡工作正常，Windows桌面右键能看到NVIDIA控制面板，Linux 运行 nvidia-smi 能看到显卡
-- ⚠️ 降低显卡功耗 (重要)
-    - Windows 可以使用 MSI Afterburner, 将显卡功耗墙拉至最低，通常为50%到60%
-    - Linux 使用 【sudo nvidia-smi -pl 100】，100W只是举例，需降至显卡支持的最低功率
 - 克隆这个repo 【git clone https://github.com/LCoy/mine-my-ether 】或者下载zip并解压
 - 根据需要修改 linux.sh 或 linux_binance.sh 或 windows.bat 或 windows_binance.bat 中的收款地址
 - 运行脚本挖矿
+
+### 降低显卡功耗 (重要)
+- Windows 可以使用 MSI Afterburner, 将显卡功耗墙拉至最低，通常为50%到60%
+- Linux 使用 【sudo nvidia-smi -pl 100】，100W只是举例，需降至显卡支持的最低功率
 - 矿机运行一段时间后，需确认显卡的工作温度不超过65度
 
-### ⚠️ 如何处理Windows报毒
-- ✅ 防毒软件会将所有的挖矿软件标识为病毒，因为如果一个普通用的的电脑里出现了挖矿软件，那么大概率是黑客操纵这个用户的电脑在挖矿，此时的矿机才是病毒。
-- ✅ 矿机本无善恶，如果你清楚你正在挖矿，并且所有的收益归自己所有，此时的矿机就不是病毒
+### 如何处理Windows报毒
+- ⚠️ 防毒软件会将所有的挖矿软件标识为病毒，因为如果一个普通用的的电脑里出现了挖矿软件，那么大概率是黑客操纵这个用户的电脑在挖矿，此时的矿机才是病毒。
+- ⚠️ 矿机本无善恶，如果你清楚你正在挖矿，并且所有的收益归自己所有，此时的矿机就不是病毒
 - ✅ 前往 【 https://github.com/ethereum-mining/ethminer/releases 】下载开源的矿机
 
 ### 操作指令
