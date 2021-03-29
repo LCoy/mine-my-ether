@@ -29,11 +29,11 @@
 ### 如何处理Windows报毒
 - ⚠️ 防毒软件会将所有的挖矿软件标识为病毒，因为如果一个普通用的的电脑里出现了挖矿软件，那么大概率是黑客操纵这个用户的电脑在挖矿，此时的矿机才是病毒。
 - ⚠️ 矿机本无善恶，如果你清楚你正在挖矿，并且所有的收益归自己所有，此时的矿机就不是病毒
-- ✅ 前往 【 https://github.com/ethereum-mining/ethminer/releases 】下载开源的矿机
+- ✅ 前往 https://github.com/ethereum-mining/ethminer/releases 下载开源的矿机
 
 ### 操作指令
 <details>
-  <summary> ⬅️ ✅【点击展开】 Linux 操作指令集</summary>
+  <summary> ⬅️【点击展开】 Linux 操作指令集</summary>
   
 ### Linux Binance pool
 ```bash
@@ -53,7 +53,7 @@
 
 
 <details>
-  <summary> ⬅️ ✅【点击展开】 Windows 操作指令集</summary>
+  <summary> ⬅️【点击展开】 Windows 操作指令集</summary>
 
 ### Windows Binance pool
 ```bash
