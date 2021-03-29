@@ -66,7 +66,5 @@ bin/ethminer_0.18.0.exe -P stratum1+tcp://0xc538EeEdb560aF038ab3E93E9FEaD402e16e
 
 
 ### 矿机正常运行的截图
-<details>
-  <summary> ⬅️ ✅【点击展开】</summary>
 ![Miner_Running](image/Miner_Running.png)
-</details>
+
