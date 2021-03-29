@@ -11,7 +11,7 @@
 - 选择【矿池】，添加一个矿工，并修改命令行中下方的【o123o】为你的矿工名字
 
 ### 使用Ethermine, 星火矿池，或其他矿池
-- 使用币安收款：需注册币安账号，注册链接: [www.binance.cc](https://www.binance.cc/zh-CN/register?ref=QY9ESCNP)。选择【现货】->【ETH】->【充值】，获得【0x】开头的充值地址，并修改命令行中收款地址
+- 使用币安收款：需注册币安账号，注册链接: [www.binance.cc](https://www.binance.cc/zh-CN/register?ref=QY9ESCNP)。选择【现货】->【ETH】->【充值】-> 【ERC20主网】，获得【0x】开头的充值地址，并修改命令行中收款地址
 - 使用其他钱包收款：需注册以太坊钱包，获得【0x】开头的充值地址，并修改命令行中收款地址。钱包可自行选择，如：Coinbase，Bitpay，Metamask，imToken
 
 ### 开始挖矿
