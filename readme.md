@@ -1,9 +1,9 @@
 ## Start to mine ethereum today
 
 ### 选择矿池
-- ✅ 推荐 币安矿池 Binance Pool (binance.com): 无最小提现额度，每天支付
-- ✅ 推荐 Ethermine Pool (ethermine.org): 适合海外用户，最小提现额度 0.01 ETH，每周支付一次
-- 星火矿池 Sparkpool (sparkpool.com): 适合国内大量挖矿用户，不适合普通用户，最小提现额度 0.1 ETH，每月支付一次
+- ✅ 推荐 币安矿池: 无最小提现额度，每天支付
+- ✅ 推荐 Ethermine (ethermine.org): 全球最大的矿池，适合海外用户，最小提现额度 0.01 ETH，每周支付一次
+- 星火矿池 (sparkpool.com): 适合国内大量挖矿用户，不适合普通用户，最小提现额度 0.1 ETH，每月支付一次
 
 ### 使用币安矿池
 - 需注册币安账号，注册链接: [www.binance.cc](https://www.binance.cc/zh-CN/register?ref=QY9ESCNP)
@@ -21,6 +21,9 @@
     - Windows 可以使用 MSI Afterburner, 将显卡功耗墙拉至最低，通常为50%到60%
     - Linux 使用 【sudo nvidia-smi -pl 100】，100W只是举例，需降至显卡支持的最低功率
 - 开始挖矿后，需确认显卡的工作温度不超过65度
+
+### 矿机正常运行的截图
+![Miner_Running](image/Miner_Running.png)
 
 ### Linux Binance pool
 ```bash
